@@ -40,3 +40,4 @@ build/
 /.idea/
 /docs/
 /src/
+/pom.xml

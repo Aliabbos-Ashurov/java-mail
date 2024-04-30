@@ -1,4 +1,5 @@
-# Java Email Service (Version 2.0)
+# java-mail (JAR Library)
+#### Version 2.0
 
 This Java project provides email sending functionality using different email service configurations, including Mailtrap and Gmail. It consists of several classes designed to handle email composition, attachment embedding, and session management.
 
